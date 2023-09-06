@@ -81,3 +81,5 @@
 **VS Code - Visual Studio Code* 
 
 ## Семинар 2.
+
+git branch - выводит ветки 
